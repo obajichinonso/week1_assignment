@@ -1,0 +1,8 @@
+hello.txt
+notes/.secret.txt
+notes/day1.txt
+notes/day2.txt
+notes/day3.txt
+notes/summary.txt
+project/main.sh
+project/week1_project/readme.md
